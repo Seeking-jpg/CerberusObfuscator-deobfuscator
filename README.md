@@ -31,3 +31,4 @@ By using this tool, **you accept full responsibility** for complying with all ap
 2. Drag and drop any `.py` file obfuscated with Cerberus onto the script.
 3. The deobfuscated source will be saved as:
 
+need help? Join: https://discord.gg/PSwV57Xz
